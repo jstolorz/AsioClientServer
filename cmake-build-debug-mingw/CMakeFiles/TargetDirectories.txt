@@ -1,0 +1,3 @@
+C:/Users/jstol/CLionProjects/AsioClientServer/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+C:/Users/jstol/CLionProjects/AsioClientServer/cmake-build-debug-mingw/CMakeFiles/AsioClientServer.dir
+C:/Users/jstol/CLionProjects/AsioClientServer/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
